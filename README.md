@@ -1,6 +1,8 @@
 # APCtools
 Age Period Cohort (APC) analysis Use create_APCsummary (APCtools) With (In) R Software
 
+https://www.youtube.com/watch?v=Ko_UmlytRXU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
